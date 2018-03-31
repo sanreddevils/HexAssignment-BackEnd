@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="_Global.asax.cs" Inherits="Hex_Assignment.WebApiApplication" Language="C#" %>
